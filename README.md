@@ -2,9 +2,10 @@
 
 Love:
 - V
+- C
 - Funny projects
 - Sandbox games
 
-Hate:
+Don't love:
 - OOP
 - JS
