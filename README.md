@@ -1,8 +1,8 @@
 ### Just coder and gamer
 
 Love:
-- V
-- C
+- Zig
+- Rust
 - Funny projects
 - Sandbox games
 
