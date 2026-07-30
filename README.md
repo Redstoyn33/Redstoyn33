@@ -2,7 +2,8 @@
 
 Love:
 - Zig
-- Rust
+- Odin
+- Elixir
 - Funny projects
 - Sandbox games
 
